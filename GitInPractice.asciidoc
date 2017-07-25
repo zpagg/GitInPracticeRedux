@@ -1,0 +1,2 @@
+typed something new in file GitInPractice.asciidoc
+
