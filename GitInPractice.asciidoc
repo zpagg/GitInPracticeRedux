@@ -1,5 +1,6 @@
-typed something new in file GitInPractice.asciidoc
+WHO? typed something new in file GitInPractice.asciidoc
 Added some jokes here
 
 Something in secondary clone added!
+and test FETCH vs PULL
 
