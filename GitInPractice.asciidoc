@@ -1,4 +1,5 @@
 typed something new in file GitInPractice.asciidoc
 Added some jokes here
-NEED ADD?
+
+Something in secondary clone added!
 
